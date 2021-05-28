@@ -1,0 +1,131 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ucgislib - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17B.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_MBCS" /D "_LIB" /FR"Release/" /Fp"Release/ucgislib.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\uC-GUI\Start\gis\GisInterface.c"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17B.tmp"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17C.tmp" with contents
+[
+/nologo /out:"E:\uC-GUI\Start\gis\uc_gislib\lib\ucgislib.lib" 
+".\Release\1.obj"
+".\Release\1000.obj"
+".\Release\1100.obj"
+".\Release\1200.obj"
+".\Release\1300.obj"
+".\Release\1400.obj"
+".\Release\1401.obj"
+".\Release\1500.obj"
+".\Release\1600.obj"
+".\Release\1700.obj"
+".\Release\1800.obj"
+".\Release\1900.obj"
+".\Release\2000.obj"
+".\Release\2201.obj"
+".\Release\2202.obj"
+".\Release\2300.obj"
+".\Release\2401.obj"
+".\Release\2402.obj"
+".\Release\2403.obj"
+".\Release\2404.obj"
+".\Release\2405.obj"
+".\Release\2406.obj"
+".\Release\2700.obj"
+".\Release\car.obj"
+".\Release\center.obj"
+".\Release\centertrans.obj"
+".\Release\CoorTrans.obj"
+".\Release\Encrypt.obj"
+".\Release\gb_uc_conver.obj"
+".\Release\GisApp.obj"
+".\Release\gisbase.obj"
+".\Release\gisfunction.obj"
+".\Release\GisInterface.obj"
+".\Release\GPS_BitMap.obj"
+".\Release\gpsdatainfo.obj"
+".\Release\GridIndex.obj"
+".\Release\GUI_UC_EncodeGBK.obj"
+".\Release\Layer.obj"
+".\Release\Line.obj"
+".\Release\mypoint.obj"
+".\Release\PLine.obj"
+".\Release\PLineRgn.obj"
+".\Release\Return.obj"
+".\Release\Search.obj"
+".\Release\userlayer.obj"
+".\Release\ZOOMIN.obj"
+".\Release\ZOOMOUT.obj"
+]
+Creating command line "link.exe -lib @"C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17C.tmp""
+<h3>Output Window</h3>
+Compiling...
+GisInterface.c
+Creating library...
+Creating temporary file "C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17D.tmp" with contents
+[
+/nologo /o"Release/ucgislib.bsc" 
+".\Release\1.sbr"
+".\Release\1000.sbr"
+".\Release\1100.sbr"
+".\Release\1200.sbr"
+".\Release\1300.sbr"
+".\Release\1400.sbr"
+".\Release\1401.sbr"
+".\Release\1500.sbr"
+".\Release\1600.sbr"
+".\Release\1700.sbr"
+".\Release\1800.sbr"
+".\Release\1900.sbr"
+".\Release\2000.sbr"
+".\Release\2201.sbr"
+".\Release\2202.sbr"
+".\Release\2300.sbr"
+".\Release\2401.sbr"
+".\Release\2402.sbr"
+".\Release\2403.sbr"
+".\Release\2404.sbr"
+".\Release\2405.sbr"
+".\Release\2406.sbr"
+".\Release\2700.sbr"
+".\Release\car.sbr"
+".\Release\center.sbr"
+".\Release\centertrans.sbr"
+".\Release\CoorTrans.sbr"
+".\Release\Encrypt.sbr"
+".\Release\gb_uc_conver.sbr"
+".\Release\GisApp.sbr"
+".\Release\gisbase.sbr"
+".\Release\gisfunction.sbr"
+".\Release\GisInterface.sbr"
+".\Release\GPS_BitMap.sbr"
+".\Release\gpsdatainfo.sbr"
+".\Release\GridIndex.sbr"
+".\Release\GUI_UC_EncodeGBK.sbr"
+".\Release\Layer.sbr"
+".\Release\Line.sbr"
+".\Release\mypoint.sbr"
+".\Release\PLine.sbr"
+".\Release\PLineRgn.sbr"
+".\Release\Return.sbr"
+".\Release\Search.sbr"
+".\Release\userlayer.sbr"
+".\Release\ZOOMIN.sbr"
+".\Release\ZOOMOUT.sbr"]
+Creating command line "bscmake.exe @"C:\DOCUME~1\ADMINI~1.HP-\LOCALS~1\Temp\RSP17D.tmp""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+ucgislib.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

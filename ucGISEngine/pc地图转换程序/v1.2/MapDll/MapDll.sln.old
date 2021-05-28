@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapDll", "MapDll.vcproj", "{479CCAC5-276E-4312-8439-D902FD5A200C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\test\test.vcproj", "{61447D1C-9144-4752-B936-5A1C7FED0477}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{479CCAC5-276E-4312-8439-D902FD5A200C}.Debug.ActiveCfg = Debug|Win32
+		{479CCAC5-276E-4312-8439-D902FD5A200C}.Debug.Build.0 = Debug|Win32
+		{479CCAC5-276E-4312-8439-D902FD5A200C}.Release.ActiveCfg = Release|Win32
+		{479CCAC5-276E-4312-8439-D902FD5A200C}.Release.Build.0 = Release|Win32
+		{61447D1C-9144-4752-B936-5A1C7FED0477}.Debug.ActiveCfg = Debug|Win32
+		{61447D1C-9144-4752-B936-5A1C7FED0477}.Debug.Build.0 = Debug|Win32
+		{61447D1C-9144-4752-B936-5A1C7FED0477}.Release.ActiveCfg = Release|Win32
+		{61447D1C-9144-4752-B936-5A1C7FED0477}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

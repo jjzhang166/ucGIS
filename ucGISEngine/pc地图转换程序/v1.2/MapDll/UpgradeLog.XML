@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MapDll">
+</Property><Property Name="解决方案文件" Value="D:\IBMR52备份\e\华创网路通\曹宏\MapDll\MapDll\MapDll.sln">
+</Property><Property Name="用户选项文件" Value="D:\IBMR52备份\e\华创网路通\曹宏\MapDll\MapDll\MapDll.suo">
+</Property><Property Name="Date" Value="2009年8月25日">
+</Property><Property Name="Time" Value="10:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MapDll.sln" Description="文件已成功备份为 D:\IBMR52备份\e\华创网路通\曹宏\MapDll\MapDll\MapDll.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="MapDll.suo" Description="文件已成功备份为 D:\IBMR52备份\e\华创网路通\曹宏\MapDll\MapDll\MapDll.suo.old">
+</Event><Event ErrorLevel="0" Project="MapDll" Source="MapDll.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="MapDll" Source="MapDll.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="test" Source="..\test\test.vcproj" Description="未能升级项目文件“D:\IBMR52备份\e\华创网路通\曹宏\MapDll\test\test.vcproj”。请确保该文件存在并且没有写保护。">
+</Event><Event ErrorLevel="2" Project="test" Source="..\test\test.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="test" Source="..\test\test.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="" Source="MapDll.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MapDll.sln" Description="Converted">
+</Event></UpgradeLog>
