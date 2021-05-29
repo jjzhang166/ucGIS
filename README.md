@@ -45,10 +45,9 @@
 </br>
 
 <br>界面</br>
+<img src="https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/GUI.jpg" width="200"  alt="ucGIS 模拟界面"/><br/>
+<img src="https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/GUI1.jpg" width="200"  alt="ucGIS 仪表盘模拟界面"/><br/>
 
-![](https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/GUI.jpg)
-![](https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/GUI1.jpg)
 <br>欢迎加群ucGIS 708224555</br>
-
-![](https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/QQID.jpg)
+<img src="https://github.com/xiangxud/ucGIS/blob/main/ucGISEngine/QQID.jpg" width="200"  alt="ucGIS 技术讨论群"/><br/>
 [我的博客](https://blog.csdn.net/superxxd)  
