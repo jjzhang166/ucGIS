@@ -46,7 +46,7 @@
 
 <br>界面</br>
 
-![GUI ](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/GUI.jpg)
-![GUI ](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/GUI1.jpg)
+![](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/GUI.jpg)
+![](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/GUI1.jpg)
 <br>欢迎加群</br>
-![GUI ](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/QQID.jpg)
+![](https://github.com/xiangxud/ucGIS/blob/master/ucGISEngine/QQID.jpg)
